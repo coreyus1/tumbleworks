@@ -1,0 +1,16 @@
+{
+  "name": "Tumbleworks",
+  "short_name": "Tumbleworks",
+  "description": "A marble-run puzzle machine: drop marbles, steer them with flippers, gates and gadgets, fill the cups.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#16191c",
+  "theme_color": "#16191c",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-180.png", "sizes": "180x180", "type": "image/png"}
+  ]
+}
